@@ -25,6 +25,6 @@
  	- you can find it on "Final_Project" folder
 
   
-### Assignment full description 
+### Project full description 
 [PDF](https://www.facebook.com/download/250466026010015/Project.pdf?av=100004733238534&eav=AfaK_ZdaNBTJ6aw8ASGp3OpPk-eUdSoqRrdeOKM4teQTUByb5pwDWwZnfqK5UkciOM4&hash=AcrmKZdTW2-cslUT)
 	
